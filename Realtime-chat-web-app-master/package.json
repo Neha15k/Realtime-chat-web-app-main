@@ -1,0 +1,17 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "This is a chatting application created using node js and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Neha Kumari",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^3.1.3",
+    "socket.io": "^4.5.1"
+  }
+}
